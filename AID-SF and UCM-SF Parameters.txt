@@ -1,0 +1,67 @@
+Parameters for creating AID-SF using imgaug.augmenters.weather.SnowflakesLayer
+
+Intermediate 1:
+
+density = 0.05
+
+Intermediate 2:
+
+density = 0.10
+
+Intermediate 3:
+
+density = 0.15
+
+Intermediate 4:
+
+density = 0.25
+
+Target:
+
+density = 0.30
+
+In addition, the image brightness was also decreased in the order 0.85, 0.8, 0.75, 0.7 and 0.65 for intermediates 1-4 and target domains, respectively.
+
+
+
+
+
+Parameters for creating UCM-SF using imgaug.augmenters.weather.SnowflakesLayer
+
+Intermediate 1:
+
+density = 0.02
+
+Intermediate 2:
+
+density = 0.15
+
+Intermediate 3:
+
+density = 0.10
+
+Intermediate 4:
+
+density = 0.15
+
+Target:
+
+density = 0.20
+
+In addition, the image brightness was also decreased in the order 0.85, 0.85, 0.8, 0.75 and 0.75 for intermediates 1-4 and target domains, respectively.
+
+
+
+All other parameters were fixed and set according to recommendations given in https://github.com/aleju/imgaug/blob/master/imgaug/augmenters/weather.py
+
+density_uniformity = 0.9
+
+flake_size = 0.1
+
+flake_size_uniformity = 0.8
+
+angle = (-10, 10)
+
+speed = 0.015
+
+blur_sigma_fraction = 0.001
