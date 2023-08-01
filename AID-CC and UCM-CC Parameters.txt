@@ -1,0 +1,74 @@
+Parameters for creating AID-CC and UCM-CC using imgaug.augmenters.weather.CloudLayer
+
+Intermediate 1:
+
+intensity_mean = 190
+
+alpha_min = 0.1
+
+alpha_size_px_max = 100 
+
+density_multiplier = 1.0
+
+Intermediate 2:
+
+intensity_mean = 210
+
+alpha_min = 0.1
+
+alpha_size_px_max = 100 
+
+density_multiplier = 1.0
+
+Intermediate 3:
+
+intensity_mean = 190
+
+alpha_min = 0.1
+
+alpha_size_px_max = 100 
+
+density_multiplier = 1.5
+
+Intermediate 4:
+
+intensity_mean = 210
+
+alpha_min = 0.1
+
+alpha_size_px_max = 100 
+
+density_multiplier = 1.5
+
+Intermediate 5:
+
+intensity_mean = 190
+
+alpha_min = 0.2
+
+alpha_size_px_max = 100 
+
+density_multiplier = 1.5
+
+Intermediate 6:
+
+intensity_mean = 190
+
+alpha_min = 0.3
+
+alpha_size_px_max = 100, 200 
+
+density_multiplier = 1.5
+
+Target:
+
+intensity_mean = 210
+
+alpha_min = 0.3
+
+alpha_size_px_max = 100, 200 
+
+density_multiplier = 1.5
+
+
+The other parameters were fixed across all domains within the values recommended in https://github.com/aleju/imgaug/blob/master/imgaug/augmenters/weather.py
