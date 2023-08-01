@@ -9,4 +9,5 @@ The 4 benchmarking datasets are named AID-CC, AID-SF, UCM-CC, and UCM-SF (CC for
 
 
 [1] G.-S. Xia, J. Hu, F. Hu, et al., “Aid: A benchmark data set for performance evaluation of aerial scene classification,” IEEE Transactions on Geoscience and Remote Sensing 55(7), 3965–3981 (2017)
+
 [2] Y. Yang and S. Newsam, “Bag-of-visual-words and spatial extensions for land-use classification,” in Proceedings of the 18th SIGSPATIAL international conference on advances in geographic information systems, 270–279 (2010)
