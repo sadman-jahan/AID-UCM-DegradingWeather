@@ -1,7 +1,7 @@
 # AID-UCM-DegradingWeather
 Gradually degrading weather conditions synthesized on publicly available AID and UCM datasets
 
-We synthesize gradually degrading weather conditions (cloud cover and snowfall) on two aerial image datasets AID [1] and UCM [2] for evaluate continual domain adaptation models. A breif description of the synthesized datasets, and three benchmarks on these datasets can be found in our paper titled "Continual Domain Adaptation on Aerial Images under Gradually Degrading Weather", authored by Chowdhury Sadman Jahan and Dr. Andreas Savakis. The google drive link to the dataset is as follows.
+We synthesize gradually degrading weather conditions (cloud cover and snowfall) on two aerial image datasets AID [1] and UCM [2] for evaluate continual domain adaptation models. A breif description of the synthesized datasets, and three benchmarks on these datasets can be found in our paper titled "Continual Domain Adaptation on Aerial Images under Gradually Degrading Weather", authored by Chowdhury Sadman Jahan and Andreas Savakis. The google drive link to the dataset is as follows.
 
 https://drive.google.com/file/d/1rh3pWs36Y3tlfE2psLqIaE71p3yHVZ8c/view?usp=drive_link
 
